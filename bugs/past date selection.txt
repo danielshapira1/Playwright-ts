@@ -1,0 +1,18 @@
+Title:
+User is able to select past dates in booking date picker
+
+Description:
+The date picker on the booking form allows users to select dates that are in the past. 
+
+Actual Result:
+User is able to select check-in and/or check-out dates that are before the current date.
+
+Expected Result:
+The date picker should restrict the user from selecting any check-in or check-out date earlier than today’s date.
+
+Steps to Reproduce:
+1. open the website
+2. Click on the check-in date field
+3. Click on the previous month arrow
+4. Select a date before today
+5. click on chack availability

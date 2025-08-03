@@ -1,0 +1,12 @@
+| Area   | Title                                      | Automated | Bug Title & Description                                |
+|--------|--------------------------------------------|-----------|--------------------------------------------------------|
+| API    | Create booking with valid data             |    yes    |                                                        |
+| API    | Create booking with missing required field |           |                                                        |
+| API    | Retrieve booking that does not exist       |    yes    |                                                        |
+| API    | Update booking with Invalid Token          |    yes    |                                                        |
+| API    | Create booking with overlapping dates      |           |                                                        |
+| Web UI | Verify user can order a room               |    yes    |                                                        |
+| Web UI | Validate admins ability to log-in          |    yes    |                                                        |
+| Web UI | Verify user cant order a room if date past |           |User is able to select past dates in booking date picker|
+| Web UI | negative room booking form test            |           |                                                        |
+| Web UI | validate admins ability to add rooms       |           |                                                        |
