@@ -1,0 +1,20 @@
+1.Title: Verify user can order a room
+Description: Verify users ability to order a room
+Expected Result: user orders a room succsusfully
+
+2.Title: Validate admins ability to log-in
+Description: validate admins ability to log-in
+Expected Result: Admins log-in succsusfully
+
+3.Title: Verify user cant order a room if the selected dates have passed 
+Description: Verify users cant order a room if the selected dates have passed
+Expected Result: user wont be able to orders a room 
+
+4.Title: negative room booking form test
+Description: test the room booking form for negative tests   
+Expected Result: user wont be able to orders a room
+
+5.Title: validate admins ability to add rooms
+Description: test the room booking form for negative tests   
+Expected Result: user wont be able to leave a message
+
