@@ -3,7 +3,12 @@
   "version": "1.0.0",
   "description": "��#\u0000 \u0000H\u0000o\u0000o\u0000p\u0000o\u0000_\u0000Q\u0000A\u0000_\u0000A\u0000s\u0000s\u0000i\u0000g\u0000n\u0000m\u0000e\u0000n\u0000t\u0000\r\u0000 \u0000",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "playwright test",
+    "test:ui": "playwright test --ui",
+    "test:debug": "PWDEBUG=1 playwright test",
+    "show-report": "playwright show-report"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
